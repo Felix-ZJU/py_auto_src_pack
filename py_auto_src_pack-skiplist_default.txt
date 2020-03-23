@@ -1,0 +1,14 @@
+Objects
+build
+Build
+archive
+Drivers
+.*
+*.bin
+*.o
+*.obj
+*.exe
+*.dll
+*.zip
+*.tar*
+*.tgz
